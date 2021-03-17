@@ -34,6 +34,7 @@ public class PrimeNum {
 	
 	Scanner s=new Scanner(System.in);
 	test(s.nextInt());
+	s.close();
 	}
 
 }

@@ -10,8 +10,7 @@ public class Gcd {
 		{
 			if(x%i==0&&z%i==0)
 			{
-				gcd=i;
-				
+				gcd=i;	
 			}
 		}
 		return gcd;
@@ -21,7 +20,7 @@ public class Gcd {
 	{
 		Scanner s=new Scanner(System.in);
 			
- System.out.println( test(s.nextInt(),s.nextInt()));
+ System.out.println("The GCD is "+test(s.nextInt(),s.nextInt()));
 	}
 
 
