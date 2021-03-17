@@ -42,7 +42,6 @@ public class RemoveDuplicates {
 		{
 			System.out.print(a[i]+" ");
 		}
-
 	}
 
 }
