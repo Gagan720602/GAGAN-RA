@@ -45,9 +45,6 @@ public class FactoryPattern {
 	 Vehical obj=s.getInstance(025);
 	   obj.wheel();
 	   
-	
-		
-
 	}
 
 }
