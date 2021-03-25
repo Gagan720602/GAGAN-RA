@@ -19,7 +19,7 @@ public class MainQueue {
 		System.out.println(p.poll());
 		
 		
-		while(p.isEmpty()==false)
+ 		while(p.isEmpty()==false)
 		{
 			System.out.println(p.poll());
 		}

@@ -1,5 +1,7 @@
 package com.gmail.inbox;
 
+import java.util.Scanner;
+
 public class Vowels {
 	
 
@@ -19,8 +21,9 @@ public class Vowels {
 		} 
 		public static void main(String[] args)
 		{
-			String s="gagan";
-		System.out.println( peace(s));
+			Scanner sc=new Scanner(System.in);
+			
+		System.out.println("the no of Vowels is "+ peace(sc.nextLine()));
 		}
 	}
 
