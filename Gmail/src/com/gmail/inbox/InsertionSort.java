@@ -1,4 +1,4 @@
-package com.gmail.inbox;
+  package com.gmail.inbox;
 
 import java.util.Arrays;
 
@@ -17,6 +17,7 @@ public class InsertionSort {
 					x[j+1]=key;
 					
 		}
+		
 		System.out.println(Arrays.toString(x));
 		
 	}
