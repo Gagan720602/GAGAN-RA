@@ -16,6 +16,7 @@ public class StackDemo {
 		g.push(null);
 		g.push("milan");
 		g.push("ajay");
+		g.push("vaibhav");
 		
 		System.out.println(	g);
 		System.out.println(g.size());

@@ -53,7 +53,7 @@ static int partition(int arr[], int low, int high)
  
  public static void main(String args[])
  {
-     int arr[] = {10,7,8,9,1,5};
+     int arr[] = {8,7,6,1,0,9,2};
      
      sort(arr, 0, arr.length-1);
 
